@@ -1,0 +1,15 @@
+C:\Users\anvithr\OneDrive - Infinite Computer Solutions (India) Limited\Training\Task2\bin\Debug\Task2.exe.config
+C:\Users\anvithr\OneDrive - Infinite Computer Solutions (India) Limited\Training\Task2\bin\Debug\Task2.exe
+C:\Users\anvithr\OneDrive - Infinite Computer Solutions (India) Limited\Training\Task2\bin\Debug\Task2.pdb
+C:\Users\anvithr\OneDrive - Infinite Computer Solutions (India) Limited\Training\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\anvithr\OneDrive - Infinite Computer Solutions (India) Limited\Training\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\anvithr\OneDrive - Infinite Computer Solutions (India) Limited\Training\Task2\obj\Debug\Task2.exe
+C:\Users\anvithr\OneDrive - Infinite Computer Solutions (India) Limited\Training\Task2\obj\Debug\Task2.pdb
+C:\DotNetTraining\Task2\bin\Debug\Task2.exe.config
+C:\DotNetTraining\Task2\bin\Debug\Task2.exe
+C:\DotNetTraining\Task2\bin\Debug\Task2.pdb
+C:\DotNetTraining\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\DotNetTraining\Task2\obj\Debug\Task2.exe.config
+C:\DotNetTraining\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\Task2\obj\Debug\Task2.exe
+C:\DotNetTraining\Task2\obj\Debug\Task2.pdb
