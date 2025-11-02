@@ -1,7 +1,0 @@
-C:\Users\anvithr\OneDrive - Infinite Computer Solutions (India) Limited\Training\Task6\bin\Debug\Task6.exe.config
-C:\Users\anvithr\OneDrive - Infinite Computer Solutions (India) Limited\Training\Task6\bin\Debug\Task6.exe
-C:\Users\anvithr\OneDrive - Infinite Computer Solutions (India) Limited\Training\Task6\bin\Debug\Task6.pdb
-C:\Users\anvithr\OneDrive - Infinite Computer Solutions (India) Limited\Training\Task6\obj\Debug\Task6.csproj.AssemblyReference.cache
-C:\Users\anvithr\OneDrive - Infinite Computer Solutions (India) Limited\Training\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
-C:\Users\anvithr\OneDrive - Infinite Computer Solutions (India) Limited\Training\Task6\obj\Debug\Task6.exe
-C:\Users\anvithr\OneDrive - Infinite Computer Solutions (India) Limited\Training\Task6\obj\Debug\Task6.pdb
