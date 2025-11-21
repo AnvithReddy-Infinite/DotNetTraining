@@ -63,6 +63,7 @@ namespace Assignment4
             }
 
             Console.WriteLine("\nAll customer bills processed successfully!");
-    }
+            Console.ReadLine();
+        }
     }
 }
