@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net48</TargetFramework>
+		<OutputType>Exe</OutputType>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<!-- For the console project, keep the ProjectReference entry.
+         For the library project, you can omit this ItemGroup. -->
+		<ProjectReference Include="..\\Test_25_Nov\\Test_25_Nov.csproj" Condition="Exists('..\\Test_25_Nov\\Test_25_Nov.csproj')" />
+	</ItemGroup>
+
+</Project>

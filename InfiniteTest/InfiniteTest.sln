@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfiniteTest", "InfiniteTest.csproj", "{B9E4B238-9851-434B-A87B-562FD47B0035}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9E4B238-9851-434B-A87B-562FD47B0035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E4B238-9851-434B-A87B-562FD47B0035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E4B238-9851-434B-A87B-562FD47B0035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E4B238-9851-434B-A87B-562FD47B0035}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3C5BB74-DC62-4BE2-B46F-BFB4DDDE8E65}
+	EndGlobalSection
+EndGlobal

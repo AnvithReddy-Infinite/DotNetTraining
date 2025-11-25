@@ -1,0 +1,10 @@
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov\bin\Debug\net48\Test_25_Nov.dll
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov\bin\Debug\net48\Test_25_Nov.pdb
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov\obj\Debug\net48\Test_25_Nov.csproj.AssemblyReference.cache
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov\obj\Debug\net48\Test_25_Nov.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov\obj\Debug\net48\Test_25_Nov.AssemblyInfoInputs.cache
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov\obj\Debug\net48\Test_25_Nov.AssemblyInfo.cs
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov\obj\Debug\net48\Test_25_Nov.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov\obj\Debug\net48\Test_25_Nov.sourcelink.json
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov\obj\Debug\net48\Test_25_Nov.dll
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov\obj\Debug\net48\Test_25_Nov.pdb

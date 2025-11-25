@@ -1,0 +1,15 @@
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov.Console\bin\Debug\net48\Test_25_Nov.Console.pdb
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov.Console\bin\Debug\net48\Test_25_Nov.dll
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov.Console\bin\Debug\net48\Test_25_Nov.pdb
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov.Console\obj\Debug\net48\Test_25_Nov.Console.csproj.AssemblyReference.cache
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov.Console\obj\Debug\net48\Test_25_Nov.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov.Console\obj\Debug\net48\Test_25_Nov.Console.AssemblyInfoInputs.cache
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov.Console\obj\Debug\net48\Test_25_Nov.Console.AssemblyInfo.cs
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov.Console\obj\Debug\net48\Test_25_Nov.Console.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov.Console\obj\Debug\net48\Test_25_Nov.Console.sourcelink.json
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov.Console\obj\Debug\net48\Test_25_.52E0FD70.Up2Date
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov.Console\obj\Debug\net48\Test_25_Nov.Console.pdb
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov.Console\bin\Debug\net48\Test_25_Nov.Console.exe.config
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov.Console\bin\Debug\net48\Test_25_Nov.Console.exe
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov.Console\obj\Debug\net48\Test_25_Nov.Console.exe
+C:\DotNetTraining\Test_25_Nov_solution\Test_25_Nov.Console\obj\Debug\net48\Test_25_Nov.Console.exe.config
